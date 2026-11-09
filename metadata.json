@@ -1,0 +1,6 @@
+{
+  "name": "Visitor Pass Management System",
+  "description": "Full-stack MERN Visitor Pass Management System with Role-Based Access Control, Request Workflows, Pass Issuance, Check-in/Out, Reports, and Activity Logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
